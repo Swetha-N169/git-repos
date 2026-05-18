@@ -12,6 +12,7 @@
     <mapping directory="$PROJECT_DIR$/automated-ansible-templates" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/automated-mart-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/automated-mart-terraform-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github-runners/github-actions-runner" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn-github-actions/learn-github-actions" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn-terraform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn-terraform-modules-v1" vcs="Git" />
