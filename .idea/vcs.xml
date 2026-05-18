@@ -2,11 +2,20 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-repos-v1/roboshop-cart-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-repos-v1/roboshop-catalogue-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-repos-v1/roboshop-dispatch-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-repos-v1/roboshop-frontend-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-repos-v1/roboshop-payment-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-repos-v1/roboshop-shipping-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-repos-v1/roboshop-user-v1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/automated-ansible-templates" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/automated-mart-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/automated-mart-terraform-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-github-actions/learn-github-actions" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn-terraform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learn-terraform-modules-v1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/terraform-AutoM-final-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tf-AutoM-Loadbalancer" vcs="Git" />
   </component>
 </project>
